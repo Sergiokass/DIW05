@@ -1,0 +1,33 @@
+* {
+    font-family: 'Nunito', Verdana, sans-serif;
+}
+
+body.login {
+    background-color: #34889c;
+    background: linear-gradient(to right, #34889c, #4678c8);
+}
+
+body {
+    background-color: #f8f9fc;
+}
+
+#main-page {
+    background-color: #f8f9fc;
+}
+.callout-primary {
+     border-left-width: 6px;
+     border-left-color: #428bca;
+}
+.callout-success {
+    border-left-width: 6px;
+    border-left-color: #1cc88a;
+}
+.callout-info {
+    border-left-width: 6px;
+    border-left-color: #36b9cc;;
+
+}
+
+.gris {
+    background-color: #f0efef;
+}
